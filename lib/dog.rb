@@ -22,5 +22,5 @@ class Dog
   end
   
   def save
-    
+  end
 end 

@@ -6,4 +6,6 @@ class Dog
     @name = name
     @@all << @name
   end
+  
+  
 end 

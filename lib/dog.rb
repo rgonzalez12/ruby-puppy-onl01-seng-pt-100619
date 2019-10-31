@@ -16,7 +16,7 @@ class Dog
   end
   
   def self.print_all
-    @@all.take(3)
+    puts @@all.take(3)
       
   end
 end 
